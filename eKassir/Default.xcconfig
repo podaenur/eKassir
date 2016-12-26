@@ -1,0 +1,10 @@
+//
+//  Default.xcconfig
+//  eKassir
+//
+//  Created by Evgeniy Akhmerov on 18/12/16.
+//  Copyright © 2016 Evgeniy Akhmerov. All rights reserved.
+//
+
+DATA_URL=http:/$()/careers.ekassir.com/test/
+IMAGE_URL=http:/$()/careers.ekassir.com/test/images/

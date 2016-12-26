@@ -1,0 +1,34 @@
+/* 
+  Localized.strings
+  eKassir
+
+  Created by Evgeniy Akhmerov on 25/12/16.
+  Copyright © 2016 Evgeniy Akhmerov. All rights reserved.
+*/
+
+//****
+//  MainViewController
+//****
+
+"MainViewController.title" = "taxi";
+
+//****
+//  DetailsViewController
+//****
+
+"DetailsViewController.title" = "Детали";
+"DetailsViewController.route" = "Маршрут:";
+"DetailsViewController.trip" = "Поездка:";
+"DetailsViewController.begin" = "состоится:";
+"DetailsViewController.cost" = "стоимость:";
+"DetailsViewController.driver" = "Водитель:";
+"DetailsViewController.car" = "Машина:";
+"DetailsViewController.from" = "от: %@";
+"DetailsViewController.to" = "до: %@";
+
+
+//****
+//  EmptyView
+//****
+
+"EmptyModel.default.text" = "Ничего не загрузилось";
