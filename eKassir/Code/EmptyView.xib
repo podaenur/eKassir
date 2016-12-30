@@ -42,7 +42,7 @@
                     </constraints>
                 </view>
             </subviews>
-            <color key="backgroundColor" red="1" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
             <constraints>
                 <constraint firstItem="oqT-nt-pQA" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="JVh-qt-6mO"/>
                 <constraint firstItem="oqT-nt-pQA" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="rCt-Qt-i9m"/>
